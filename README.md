@@ -21,11 +21,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazwariand-dotcom/nazwariand-dotcom/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nazwariand-dotcom/nazwariand-dotcom/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nazwariand-dotcom/nazwariand-dotcom/output/pacman-contribution-graph.svg">
-</picture>
+
 <!--
 **nazwariand-dotcom/nazwariand-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

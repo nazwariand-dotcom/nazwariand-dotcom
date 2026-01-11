@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello World! U Can Call Me Awa 👋
 
+![awa](img/download%20(1).jpg)
 <!--
 **nazwariand-dotcom/nazwariand-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
